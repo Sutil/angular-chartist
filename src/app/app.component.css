@@ -1,0 +1,18 @@
+p {
+  font-family: Lato;
+}
+
+.sutil {
+  stroke: blue;
+  background-color: blue;
+  fill: blue;
+}
+
+g.ct-series.sutil {
+  fill: blue;
+  stroke: blue;
+}
+
+g.ct-series-a .ct-bar {
+  stroke: blue !important;
+}
